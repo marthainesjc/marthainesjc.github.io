@@ -1,2 +1,2 @@
 # marthainesjc.github.io
-Proyecto del curdo hpcd
+##Proyecto del curso hpcd
